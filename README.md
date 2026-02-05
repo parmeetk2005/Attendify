@@ -29,15 +29,18 @@ This project is intended as an academic exercise to apply Java OOP principles an
 ---
 
 ## Project Structure
-StudentManagmentSystem/
-│
-├── Admin.java → Handles admin authentication
-├── Student.java → Student data model
-├── Attendance.java → Attendance tracking
-├── Group.java → Group/Section model
-├── GroupManagment.java → Group operations
-├── StudentManagment.java → Student CRUD operations
-└── MainWork.java → Program entry point & menu flow
+## Project Structure
+
+| File Name              | Responsibility                          |
+|------------------------|------------------------------------------|
+| `Admin.java`          | Handles admin authentication             |
+| `Student.java`        | Student data model                      |
+| `Attendance.java`     | Attendance tracking                     |
+| `Group.java`          | Group/Section model                     |
+| `GroupManagment.java` | Group operations                        |
+| `StudentManagment.java` | Student CRUD operations              |
+| `MainWork.java`       | Program entry point & menu flow         |
+
 
 ---
 
